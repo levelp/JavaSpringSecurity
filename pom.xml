@@ -65,7 +65,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-config</artifactId>
-            <version>3.2.4.RELEASE</version>
+            <version>3.2.10.RELEASE</version>
         </dependency>
         <!-- Add Jstl Dependencies -->
         <dependency>
